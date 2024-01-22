@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { Header } from "@components/Header";
 import { Container, Content, Icon } from "./styles";
 import { Highlight } from "@components/Highlight";
@@ -6,10 +7,11 @@ import { Input } from "@components/Input";
 import { useNavigation } from "@react-navigation/native";
 
 export function NewGroup() {
+  const [group, setGroup] = useState('')
   const navigation = useNavigation();
 
   function handleNew() {
-    navigation.navigate('players', { group: 'Rocket' });
+    navigation.navigate('players', { group });
   }
 
   return (
@@ -26,6 +28,7 @@ export function NewGroup() {
 
         <Input 
           placeholder="Nome da galera"
+          onChangeText={setGroup}
         />
 
         <Button
