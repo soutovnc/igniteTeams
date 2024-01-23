@@ -11,7 +11,6 @@ export function Routes() {
       <NavigationContainer>
         <AppRoutes />
       </NavigationContainer>
-
     </View>
   )
 }
