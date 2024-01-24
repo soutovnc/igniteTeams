@@ -5,7 +5,7 @@ import { Highlight } from "@components/Highlight";
 import { Button } from "@components/Button";
 import { Input } from "@components/Input";
 import { useNavigation } from "@react-navigation/native";
-import { groupCreate } from '@storage/groups/groupCreate';
+import { groupCreate } from '@storage/group/groupCreate';
 
 export function NewGroup() {
   const [group, setGroup] = useState('')
@@ -13,7 +13,7 @@ export function NewGroup() {
 
   async function handleNew() {
     try {
-      await groupCreate(group);
+      await groupCreate(group)
     } catch (err) {
       console.error(err);
     }
