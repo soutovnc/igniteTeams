@@ -5,10 +5,17 @@
 <br />
 
 <h3 align="center">
-  About Challenge
+  🎯 About Challenge
 </h3>
 
 In this challenge, I developed an application for help to manage people that playing together in groups. It's an app with stack navigation, is possible register/remove groups ands members of teams and save data in local storage. 
+So, features that I need to implement:
+
+- [x] Show list of groups
+- [x] Add new group
+- [x] Show list of player inside the teams
+- [x] Add players and remove then
+- [x] Delete group
 
 I need to apply concepts like: 
 
@@ -16,12 +23,14 @@ I need to apply concepts like:
 - How to avoid Prop Drilling (I already write an article about props drilling in react/react native at [Medium](https://medium.com/@soutovnc/props-drilling-in-react-react-native-4c0a6f2fe144))
 - Navigation with Stack Navigator
 - Local Storage with AsyncStorage
+- Hooks
+- Context and Theme provider
 
 <h3 align="center">
-  Tech's
+  💻 Tech's & layout
 </h3>
 
-- [expo]()
+- [expo](https://expo.dev/)
 - [Styled Components](https://styled-components.com/)
 - [AsyncStorage]()
 - [TypeScript](https://www.typescriptlang.org)
