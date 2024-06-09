@@ -30,11 +30,15 @@ I need to apply concepts like:
   💻 Tech's & layout
 </h3>
 
+I'm basically used this tech's:
+
 - [expo](https://expo.dev/)
 - [Styled Components](https://styled-components.com/)
-- [AsyncStorage]()
+- [AsyncStorage](https://reactnative.dev/docs/asyncstorage)
 - [TypeScript](https://www.typescriptlang.org)
 - [Phosphor](https://www.phosphoricons.com/)
+
+And that was the result achieved
 
 <p align="center">
   <img alt="group list void" src="./src/assets/group-list-void.png" width="25%" />
