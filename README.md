@@ -15,7 +15,10 @@ I follow a styled guide.
 
 I need to apply concepts like: 
 
-- 
+- Path Mapping
+- How to avoid Prop Drilling (I already write an article in [MEDIUM](https://medium.com/@soutovnc/props-drilling-in-react-react-native-4c0a6f2fe144))
+- Navigation with Stack Navigator
+- Local Storage with AsyncStorage
 
 <h3 align="center">
   Tech's
@@ -23,25 +26,25 @@ I need to apply concepts like:
 
 - [expo]()
 - [Styled Components](https://styled-components.com/)
-- [Async Storage]()
+- [AsyncStorage]()
 - [TypeScript](https://www.typescriptlang.org)
 - [Phosphor](https://www.phosphoricons.com/)
 
 <p align="center">
-  <img alt="group list void" src="./src/assets/group-list-void.png" width="25%" />
-  <img alt="group add" src="./src/assets/group-add-screen.png" width="25%" />
-  <img alt="group list" src="./src/assets/group-list.png" width="25%" />
+  <img alt="group list void" src="./src/assets/group-list-void.png" width="33%" />
+  <img alt="group add" src="./src/assets/group-add-screen.png" width="33%" />
+  <img alt="group list" src="./src/assets/group-list.png" width="33%" />
 </p>
 
 <p align="center">
-  <img alt="List players team A" src="./src/assets/team-a-players.png" width="25%" />
-  <img alt="List players team B" src="./src/assets/team-b-players.png" width="25%" />
+  <img alt="List players team A" src="./src/assets/team-a-players.png" width="50%" />
+  <img alt="List players team B" src="./src/assets/team-b-players.png" width="50%" />
 </p>
 
 <p align="center">
-  <img alt="Alert add new player" src="./src/assets/alert-add-new-player.png" width="25%" />
-  <img alt="Alert insert name player" src="./src/assets/alert-insert-name-player.png" width="25%" />
-  <img alt="Alert remove group" src="./src/assets/alert-remove-group.png" width="25%" />
+  <img alt="Alert add new player" src="./src/assets/alert-add-new-player.png" width="33%" />
+  <img alt="Alert insert name player" src="./src/assets/alert-insert-name-player.png" width="33%" />
+  <img alt="Alert remove group" src="./src/assets/alert-remove-group.png" width="33%" />
 </p>
  
 ## :gear: | If you want to test
