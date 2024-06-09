@@ -9,14 +9,11 @@
 </h3>
 
 In this challenge, I developed an application for help to manage people that playing together in groups. It's an app with stack navigation, is possible register/remove groups ands members of teams and save data in local storage. 
-I follow a styled guide.
-
-- [ ] 
 
 I need to apply concepts like: 
 
 - Path Mapping
-- How to avoid Prop Drilling (I already write an article in [Medium](https://medium.com/@soutovnc/props-drilling-in-react-react-native-4c0a6f2fe144))
+- How to avoid Prop Drilling (I already write an article about props drilling in react/react native at [Medium](https://medium.com/@soutovnc/props-drilling-in-react-react-native-4c0a6f2fe144))
 - Navigation with Stack Navigator
 - Local Storage with AsyncStorage
 
