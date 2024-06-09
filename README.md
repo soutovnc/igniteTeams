@@ -28,20 +28,20 @@ I need to apply concepts like:
 - [Phosphor](https://www.phosphoricons.com/)
 
 <p align="center">
-  <img alt="group list void" src="./src/assets/group-list-void.png" width="33%" />
-  <img alt="group add" src="./src/assets/group-add-screen.png" width="33%" />
-  <img alt="group list" src="./src/assets/group-list.png" width="33%" />
+  <img alt="group list void" src="./src/assets/group-list-void.png" width="25%" />
+  <img alt="group add" src="./src/assets/group-add-screen.png" width="25%" />
+  <img alt="group list" src="./src/assets/group-list.png" width="25%" />
 </p>
 
 <p align="center">
-  <img alt="List players team A" src="./src/assets/team-a-players.png" width="50%" />
-  <img alt="List players team B" src="./src/assets/team-b-players.png" width="50%" />
+  <img alt="List players team A" src="./src/assets/team-a-players.png" width="25%" />
+  <img alt="List players team B" src="./src/assets/team-b-players.png" width="25%" />
 </p>
 
 <p align="center">
-  <img alt="Alert add new player" src="./src/assets/alert-add-new-player.png" width="33%" />
-  <img alt="Alert insert name player" src="./src/assets/alert-insert-name-player.png" width="33%" />
-  <img alt="Alert remove group" src="./src/assets/alert-remove-group.png" width="33%" />
+  <img alt="Alert add new player" src="./src/assets/alert-add-new-player.png" width="25%" />
+  <img alt="Alert insert name player" src="./src/assets/alert-insert-name-player.png" width="25%" />
+  <img alt="Alert remove group" src="./src/assets/alert-remove-group.png" width="25%" />
 </p>
  
 ## :gear: | If you want to test
