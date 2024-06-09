@@ -16,7 +16,7 @@ I follow a styled guide.
 I need to apply concepts like: 
 
 - Path Mapping
-- How to avoid Prop Drilling (I already write an article in [MEDIUM](https://medium.com/@soutovnc/props-drilling-in-react-react-native-4c0a6f2fe144))
+- How to avoid Prop Drilling (I already write an article in [Medium](https://medium.com/@soutovnc/props-drilling-in-react-react-native-4c0a6f2fe144))
 - Navigation with Stack Navigator
 - Local Storage with AsyncStorage
 
